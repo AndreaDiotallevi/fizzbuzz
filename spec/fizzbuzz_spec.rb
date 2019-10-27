@@ -1,4 +1,4 @@
-require './fizzbuzz.rb'
+require "fizzbuzz"
 
 describe 'Fizzbuzz' do
   context "If number is divisible by 3 and not by 5" do
